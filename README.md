@@ -22,3 +22,5 @@
 2025/04 **ToolRL: Reward is All Tool Learning Needs** [[paper]](https://arxiv.org/pdf/2504.13958) [[code]](https://github.com/qiancheng0/ToolRL)
 
 2025/05 **RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward** [[paper]](https://arxiv.org/pdf/2505.10218)
+
+2026/08 **Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report** [[paper]](https://arxiv.org/pdf/2608.15763) [[project]](https://sunyuhan19981208.github.io/Harness-Aware-Training/)
