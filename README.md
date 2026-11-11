@@ -23,4 +23,6 @@
 
 2025/05 **RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward** [[paper]](https://arxiv.org/pdf/2505.10218)
 
+2026/01 **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction** [[paper]](https://arxiv.org/pdf/2601.12762) [[code]](https://github.com/NEUIR/ToolMaster)
+
 2026/08 **Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report** [[paper]](https://arxiv.org/pdf/2608.15763) [[project]](https://sunyuhan19981208.github.io/Harness-Aware-Training/)
