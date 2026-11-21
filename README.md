@@ -24,3 +24,5 @@
 2025/05 **RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward** [[paper]](https://arxiv.org/pdf/2505.10218)
 
 2026/08 **Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report** [[paper]](https://arxiv.org/pdf/2608.15763) [[project]](https://sunyuhan19981208.github.io/Harness-Aware-Training/)
+
+2026/10 **MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation** [[paper]](https://arxiv.org/pdf/2610.23234v2) [[project]](https://sunyuhan19981208.github.io/posts/multiagent-opd/)
